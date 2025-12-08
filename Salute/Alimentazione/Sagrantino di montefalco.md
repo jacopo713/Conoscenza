@@ -1,0 +1,1 @@
+Ho preso questo vino dopo che sia [[Gemini]] che [[Chat Gpt]] mi hanno detto che è il vino più antiossidante al mondo, anche la distribuzione dei [[Polifenoli]] sembra buona oltre la quantità che è ottima, lo abbino con un pasto con [[Pepe Nero]]  e [[Resveratolo 4x Long Life]]ù per [[massimizzare assorbimento]] e [[sinergia]] con l'integratore abbinato 

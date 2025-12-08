@@ -1,0 +1,5 @@
+oggi con [[Psicologa]] Marisa abbiamo parlato  di come la [[Mindfullness]] sembra non funzionare quando la pratico rendendomi più [[emotivo]] da una parte e questo va bene, ma siccome mi mette in contatto con il mio [[Vero Sè]] che è molto [[emotivo]] e ha la [[Disregolazione Emotiva]] della [[Adhd]] che da bambino mi hanno fatto [[Sentire Sbagliato]] e mi ha fatto convincere che le [[Emozioni]] sono male e vanno represse, poco dopo che la [[Mindfullness]] mi mette in contatto con il mio [[Vero Sè]] e mi fa [[Sentire le mie Emozioni]] il [[Doc]] si amplifica perchè cerca di reprimerle nuovamente, in ogni caso la [[Mindfullness]] insieme ad altre pratiche che sto facendo come resistere a non far una [[Compulsione]]
+[[Doc]] penso mi porteranno alla [[Guarigione]], ho anche pensato che non sono d'accordo con lei che le mie pratiche salutistiche o lo sport fatto in modo quasi ritualistico non è proprio [[Doc]] ma un [[Metodo Compensativo]] per l'[[Adhd]] di cui ho bisogno per star bene e che non penso vada eliminato, la mia [[Psicologa]] ha detto che questa me la lascia buona e che anche lei ha sempre da imparare da noi 
+
+
+
