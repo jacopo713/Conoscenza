@@ -28,13 +28,23 @@
             }
           },
           {
+            "id": "12ddaaa2944693ea",
+            "type": "leaf",
+            "state": {
+              "type": "3d-graph-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "3d graph"
+            }
+          },
+          {
             "id": "992e02b83c80543b",
             "type": "leaf",
             "state": {
               "type": "3d_graph_view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "3D-Graph"
+              "icon": "lucide-ghost",
+              "title": "3d_graph_view"
             }
           },
           {
@@ -53,16 +63,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Luci Casa.md",
+                "file": "Tecnologia/Luci Casa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Luci Casa"
             }
+          },
+          {
+            "id": "4ce3d4ae28dbb213",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
+            "id": "b06c6e1e5419bbf3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
+            "id": "6562937ee5cfef61",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
+            "id": "4822b0bb8151f5d6",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "3D-Graph"
+            }
+          },
+          {
+            "id": "6d722b73490f1ad8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
+            "id": "8c015db5e74cf2da",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
+            "id": "21423ad0b7efb1dd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -238,11 +318,21 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "5c602cb6ea5b206b",
+  "active": "415ca26d524a2994",
   "lastOpenFiles": [
-    "Luci Casa.md",
-    "Quotidianità/Giornata con la febbre.md",
+    "Quotidianità/Guidato la macchina al lavoro.md",
+    "Psicologia/Mie Paure principali.md",
+    "Senza nome 1.md",
+    "Salute/Sonno/Dormità lunga 10-11 ore.md",
+    "Salute/Sonno/Materasso in memory foam.md",
+    "Senza nome.canvas",
     "Quotidianità/Stanotte ho dormito meglio.md",
+    "Senza nome.md",
+    "Salute/Esercizio fisico/Regolarità Intestinale.md",
+    "Tecnologia/Luci Casa.md",
+    "Tecnologia",
+    "casa.md",
+    "Quotidianità/Giornata con la febbre.md",
     "Idee/App di collegamenti tra più persone.md",
     "Psicologia/emotivo.md",
     "Psicologia/disgregolazione emotiva.md",
@@ -253,21 +343,13 @@
     "Società/Bassa Natalità.md",
     "Quotidianità/Sensazione Temporale.md",
     "Quotidianità/Giornata produttiva con psicologa.md",
-    "Senza nome 1.md",
     "Quotidianità/Giornata di Consapevolezza.md",
     "Quotidianità/Essere gentili con gli altri.md",
     "Templates/Nota base.md",
-    "Psicologia/Le mie Paure principali.md",
     "Quotidianità/Film Romantico.md",
     "Psicologia/amore.md",
     "Psicologia/Bruciore alla pelle.md",
-    "Progetti/Creazione di un sito simile a obsidian.md",
     "Progetti",
-    "vista a [[Grafo.md",
-    "Salute/Alimentazione/Sagrantino di montefalco.md",
-    "Salute/Polifenoli.md",
-    "Senza nome 3.md",
-    "Salute/Integratori/Ashwagandha.md",
     "Lavoro",
     "Musica",
     "Salute/Dry Eyes",
@@ -276,8 +358,6 @@
     "Salute/Sonno",
     "Salute/Integratori",
     "Senza nome 2.canvas",
-    "Senza nome.canvas",
-    "Senza nome 1.canvas",
-    "Idee"
+    "Senza nome 1.canvas"
   ]
 }
