@@ -4,135 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e764707528fedcc",
+        "id": "22218634d5eb85ed",
         "type": "tabs",
         "children": [
           {
-            "id": "3dc19153b3744560",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          },
-          {
-            "id": "d6bf73f25c03db5a",
-            "type": "leaf",
-            "state": {
-              "type": "smart-chat-view",
-              "state": {},
-              "icon": "smart-chat",
-              "title": "Smart Chat"
-            }
-          },
-          {
-            "id": "12ddaaa2944693ea",
-            "type": "leaf",
-            "state": {
-              "type": "3d-graph-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "3d graph"
-            }
-          },
-          {
-            "id": "992e02b83c80543b",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "3d_graph_view"
-            }
-          },
-          {
-            "id": "c14680184e29ffd8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          },
-          {
-            "id": "5c602cb6ea5b206b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecnologia/Luci Casa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Luci Casa"
-            }
-          },
-          {
-            "id": "4ce3d4ae28dbb213",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          },
-          {
-            "id": "b06c6e1e5419bbf3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          },
-          {
-            "id": "6562937ee5cfef61",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          },
-          {
-            "id": "4822b0bb8151f5d6",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "3D-Graph"
-            }
-          },
-          {
-            "id": "6d722b73490f1ad8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          },
-          {
-            "id": "8c015db5e74cf2da",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          },
-          {
-            "id": "21423ad0b7efb1dd",
+            "id": "40be44496d3e164b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -141,8 +17,7 @@
               "title": "Vista grafo"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -318,18 +193,22 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "415ca26d524a2994",
+  "active": "40be44496d3e164b",
   "lastOpenFiles": [
-    "Quotidianità/Guidato la macchina al lavoro.md",
+    "Tecnologia/Luci Casa.md",
+    "Nota Trading.md",
+    "Senza nome.md",
+    "Trading",
+    "Psicologia/ERP.md",
+    "Quotidianità/Giornata di Sfide.md",
     "Psicologia/Mie Paure principali.md",
+    "Quotidianità/Guidato la macchina al lavoro.md",
     "Senza nome 1.md",
     "Salute/Sonno/Dormità lunga 10-11 ore.md",
     "Salute/Sonno/Materasso in memory foam.md",
     "Senza nome.canvas",
     "Quotidianità/Stanotte ho dormito meglio.md",
-    "Senza nome.md",
     "Salute/Esercizio fisico/Regolarità Intestinale.md",
-    "Tecnologia/Luci Casa.md",
     "Tecnologia",
     "casa.md",
     "Quotidianità/Giornata con la febbre.md",
@@ -346,9 +225,6 @@
     "Quotidianità/Giornata di Consapevolezza.md",
     "Quotidianità/Essere gentili con gli altri.md",
     "Templates/Nota base.md",
-    "Quotidianità/Film Romantico.md",
-    "Psicologia/amore.md",
-    "Psicologia/Bruciore alla pelle.md",
     "Progetti",
     "Lavoro",
     "Musica",
@@ -356,7 +232,6 @@
     "Salute/Alimentazione",
     "Meditazione",
     "Salute/Sonno",
-    "Salute/Integratori",
     "Senza nome 2.canvas",
     "Senza nome 1.canvas"
   ]
