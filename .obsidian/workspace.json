@@ -8,7 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "40be44496d3e164b",
+            "id": "035f4c2ecf8866c5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
+            "id": "67d87aad00fa3636",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
+            "id": "9977b14148b0755f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
+            "id": "d16e11b4ae0f5894",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
+            "id": "302e8aa13d6d1a84",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -17,7 +57,8 @@
               "title": "Vista grafo"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -193,11 +234,24 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "40be44496d3e164b",
+  "active": "302e8aa13d6d1a84",
   "lastOpenFiles": [
+    "Abilità/Prompt AI.md",
+    "Lavoro/Lavoro come Sviluppatore WebDev.md",
+    "Lavoro/Addetto Antincendio.md",
+    "Lavoro/Sito di Mappe Concettuali.md",
+    "Mappe Concettuali.md",
+    "Idee/Affiliazioni Amazon.md",
+    "Trading/Trading News Sistema.md",
+    "Trading",
     "Tecnologia/Luci Casa.md",
+    "Lavoro/Pizzaiolo.md",
+    "Lavoro/Prova Vestizione.md",
+    "Lavoro/Rinnovo del Contratto.md",
+    "Società/Estensione dell'Intelligenza artficiale.md",
+    "Quotidianità/Cambio di programma.md",
+    "Società/L'intelligenza artificiale influenza le nostre vite.md",
     "Nota Trading.md",
-    "Senza nome.md",
     "Trading",
     "Psicologia/ERP.md",
     "Quotidianità/Giornata di Sfide.md",
@@ -212,26 +266,13 @@
     "Tecnologia",
     "casa.md",
     "Quotidianità/Giornata con la febbre.md",
-    "Idee/App di collegamenti tra più persone.md",
-    "Psicologia/emotivo.md",
-    "Psicologia/disgregolazione emotiva.md",
-    "Gestione Finanziaria/Burger King.md",
-    "Psicologia/Enegramma.md",
     "Società",
-    "Burger King] per [[Carenza di Personale.md",
-    "Società/Bassa Natalità.md",
-    "Quotidianità/Sensazione Temporale.md",
-    "Quotidianità/Giornata produttiva con psicologa.md",
-    "Quotidianità/Giornata di Consapevolezza.md",
-    "Quotidianità/Essere gentili con gli altri.md",
-    "Templates/Nota base.md",
     "Progetti",
     "Lavoro",
     "Musica",
     "Salute/Dry Eyes",
     "Salute/Alimentazione",
     "Meditazione",
-    "Salute/Sonno",
     "Senza nome 2.canvas",
     "Senza nome 1.canvas"
   ]
