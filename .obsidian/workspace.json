@@ -56,9 +56,19 @@
               "icon": "lucide-git-fork",
               "title": "Vista grafo"
             }
+          },
+          {
+            "id": "3993d7ac81fe2cc1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -234,8 +244,11 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "302e8aa13d6d1a84",
+  "active": "3993d7ac81fe2cc1",
   "lastOpenFiles": [
+    "Idee/Creazione sito \"Second Brain\".md",
+    "Vista a Grafo.md",
+    "Tecnologia/Cuffie Airpods 3 pro.md",
     "Abilità/Prompt AI.md",
     "Lavoro/Lavoro come Sviluppatore WebDev.md",
     "Lavoro/Addetto Antincendio.md",
@@ -262,10 +275,7 @@
     "Salute/Sonno/Materasso in memory foam.md",
     "Senza nome.canvas",
     "Quotidianità/Stanotte ho dormito meglio.md",
-    "Salute/Esercizio fisico/Regolarità Intestinale.md",
     "Tecnologia",
-    "casa.md",
-    "Quotidianità/Giornata con la febbre.md",
     "Società",
     "Progetti",
     "Lavoro",
