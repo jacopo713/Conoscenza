@@ -8,67 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "035f4c2ecf8866c5",
+            "id": "73e36e121e885fc7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "Quotidianità/Giornata con la febbre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Giornata con la febbre"
             }
           },
           {
-            "id": "67d87aad00fa3636",
+            "id": "a5f232baa3faf2e7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          },
-          {
-            "id": "9977b14148b0755f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          },
-          {
-            "id": "d16e11b4ae0f5894",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          },
-          {
-            "id": "302e8aa13d6d1a84",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          },
-          {
-            "id": "3993d7ac81fe2cc1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "Salute/Sonno/Materasso in memory foam.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Materasso in memory foam"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,12 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Salute/Sonno/Materasso in memory foam.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura"
+              "title": "Struttura di Materasso in memory foam"
             }
           },
           {
@@ -244,8 +213,29 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "3993d7ac81fe2cc1",
+  "active": "a5f232baa3faf2e7",
   "lastOpenFiles": [
+    "Abilità/Cubo di rubik.md",
+    "Salute/Sonno/Materasso in memory foam.md",
+    "Quotidianità/Giornata di Consapevolezza.md",
+    "Quotidianità/Giornata di Sfide.md",
+    "Quotidianità/Guidato la macchina al lavoro.md",
+    "Quotidianità/Giornata con la febbre.md",
+    "Quotidianità/Giornata produttiva con psicologa.md",
+    "Salute/Dry Eyes/Secchezza Oculare.md",
+    "Trading/Trading News Sistema.md",
+    "Quotidianità/Migliorato rapporto con mia mamma.md",
+    "Tecnologia/Luci Casa.md",
+    "Senza nome.canvas",
+    "Musica/Mina.md",
+    "Bisogno di Struttura.md",
+    "bisogno di struttura.md",
+    "Psicologia/Seduta Psicologica prima del natale.md",
+    "Psicologia/Doc.md",
+    "Quotidianità/Ieri non trovavo le chiavi di casa.md",
+    "Coding/Giornata di Vibe Coding.md",
+    "Coding",
+    "2025-12-18.md",
     "Idee/Creazione sito \"Second Brain\".md",
     "Vista a Grafo.md",
     "Tecnologia/Cuffie Airpods 3 pro.md",
@@ -253,28 +243,8 @@
     "Lavoro/Lavoro come Sviluppatore WebDev.md",
     "Lavoro/Addetto Antincendio.md",
     "Lavoro/Sito di Mappe Concettuali.md",
-    "Mappe Concettuali.md",
-    "Idee/Affiliazioni Amazon.md",
-    "Trading/Trading News Sistema.md",
     "Trading",
-    "Tecnologia/Luci Casa.md",
-    "Lavoro/Pizzaiolo.md",
-    "Lavoro/Prova Vestizione.md",
-    "Lavoro/Rinnovo del Contratto.md",
-    "Società/Estensione dell'Intelligenza artficiale.md",
-    "Quotidianità/Cambio di programma.md",
-    "Società/L'intelligenza artificiale influenza le nostre vite.md",
-    "Nota Trading.md",
     "Trading",
-    "Psicologia/ERP.md",
-    "Quotidianità/Giornata di Sfide.md",
-    "Psicologia/Mie Paure principali.md",
-    "Quotidianità/Guidato la macchina al lavoro.md",
-    "Senza nome 1.md",
-    "Salute/Sonno/Dormità lunga 10-11 ore.md",
-    "Salute/Sonno/Materasso in memory foam.md",
-    "Senza nome.canvas",
-    "Quotidianità/Stanotte ho dormito meglio.md",
     "Tecnologia",
     "Società",
     "Progetti",
@@ -282,7 +252,6 @@
     "Musica",
     "Salute/Dry Eyes",
     "Salute/Alimentazione",
-    "Meditazione",
     "Senza nome 2.canvas",
     "Senza nome 1.canvas"
   ]
